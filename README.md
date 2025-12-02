@@ -8,13 +8,12 @@ Last used in December 2024.
 Last updated December 2025: Cleaned up repository and rewrote readme.
 
 ## How to run
-bash
-``
+```
 npm install
-``
+```
 
-bash``
+```
 npm run dev
-``
+```
 
 ![forms preview](src/assets/forms.png)
